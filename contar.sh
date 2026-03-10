@@ -5,3 +5,4 @@ do
   lineas=$(wc -l < "$file")
   echo "$file tiene $lineas líneas."
 done
+echo "Script terminado"
